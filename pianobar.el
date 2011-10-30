@@ -66,7 +66,7 @@
   "pianobar"
   "The command to run pianobar.")
 
-(defvar pianobar-station nil
+(defvar pianobar-station "10"
   "The pianobar radio station to automatically select,
 or nil to let you select.")
 
